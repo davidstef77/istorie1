@@ -2,7 +2,7 @@
   "name": "tailwindcss4",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://davidstef77.github.io/istorie1",
+  "homepage": "https://davidstef77.github.io/istorie1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
