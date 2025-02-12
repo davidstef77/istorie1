@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Ce a fost romanizarea Daciei și cum a influențat limba română?",
+      "options": [
+        "Romanizarea Daciei a dus la pierderea tuturor tradițiilor locale.",
+        "Romanizarea a adus influențe din limba latină și a transformat cultura Daciei.",
+        "Romanizarea a fost un proces strict militar, fără impact asupra limbii."
+      ],
+      "answer": "Romanizarea a adus influențe din limba latină și a transformat cultura Daciei."
+    },
+    {
+      "question": "Care a fost impactul romanizării asupra limbii române?",
+      "options": [
+        "Limba română nu a fost influențată de latină.",
+        "Romanizarea a transformat complet limba română într-o limbă străină.",
+        "Limba română are rădăcini latinești, iar cuvintele romane sunt vizibile în vocabular."
+      ],
+      "answer": "Limba română are rădăcini latinești, iar cuvintele romane sunt vizibile în vocabular."
+    },
+    {
+      "question": "Cum s-au manifestat influențele romane în orașele Daciei?",
+      "options": [
+        "Orașele Daciei nu au fost afectate de influențele romane.",
+        "Orașele romane au fost construite în stil grecesc, nu latin.",
+        "Orașele romane au reflectat influențe romane în arhitectură și administrare."
+      ],
+      "answer": "Orașele romane au reflectat influențe romane în arhitectură și administrare."
+    },
+    {
+      "question": "Ce cuvinte din limba română provin din latină și ce semnificație au?",
+      "options": [
+        "Cuvintele românești nu au legătura cu limba latină.",
+        "Cuvinte ca 'civis' și 'legis' reflectă moștenirea latină.",
+        "Limba română a preluat cuvinte doar din limba greacă."
+      ],
+      "answer": "Cuvinte ca 'civis' și 'legis' reflectă moștenirea latină."
+    },
+    {
+      "question": "Care sunt unele dintre influențele lingvistice moderne asupra limbii române?",
+      "options": [
+        "Limba română a rămas pur latină fără influențe externe.",
+        "Cuvinte ca 'banca' și 'școală' reflectă influențe din alte culturi.",
+        "Limba română este complet influențată de limba italiană."
+      ],
+      "answer": "Cuvinte ca 'banca' și 'școală' reflectă influențe din alte culturi."
+    },
+    {
+      "question": "Cum au contribuit legiunile romane la romanizarea Daciei?",
+      "options": [
+        "Legiunile romane nu au avut niciun impact asupra romanizării.",
+        "Legiunile romane au distrus complet cultura locală.",
+        "Legiunile romane au contribuit la construirea drumurilor și orașelor romane."
+      ],
+      "answer": "Legiunile romane au contribuit la construirea drumurilor și orașelor romane."
+    },
+    {
+      "question": "Care este legătura între romanizarea Daciei și dezvoltarea limbii române moderne?",
+      "options": [
+        "Limba română modernă nu are nicio legătură cu romanizarea Daciei.",
+        "Romanizarea a dus la apariția unei limbi complet diferite.",
+        "Limba română modernă este direct rezultatul influențelor latine."
+      ],
+      "answer": "Limba română modernă este direct rezultatul influențelor latine."
+    },
+    {
+      "question": "De ce cuvintele de origine latină sunt esențiale pentru înțelegerea limbii române?",
+      "options": [
+        "Cuvintele latine nu sunt importante pentru limba română.",
+        "Cuvintele latine au fost înlocuite de termeni din alte limbi.",
+        "Cuvintele latine sunt fundamentale pentru limba română și comunicare."
+      ],
+      "answer": "Cuvintele latine sunt fundamentale pentru limba română și comunicare."
+    },
+    {
+      "question": "Care au fost principalele provincii romane care au contribuit la romanizarea Daciei?",
+      "options": [
+        "Dacia a fost romanizată exclusiv de Imperiul Grec.",
+        "Provinciile Moesia și Pannonia au avut un rol major în romanizare.",
+        "Romanizarea Daciei nu a implicat alte provincii romane."
+      ],
+      "answer": "Provinciile Moesia și Pannonia au avut un rol major în romanizare."
+    },
+    {
+      "question": "Cum se reflectă influențele romane în cultura și tradițiile românești?",
+      "options": [
+        "Influențele romane nu sunt vizibile în cultura românească.",
+        "Cultura românească a evoluat complet separat de influențele romane.",
+        "Arhitectura și tradițiile românești păstrează elemente romane."
+      ],
+      "answer": "Arhitectura și tradițiile românești păstrează elemente romane."
+    }
+  ]
+}

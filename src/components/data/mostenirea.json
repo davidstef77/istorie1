@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Ce influență a avut romanizarea asupra limbii române?",
+      "options": [
+        "A fost sursa principală a limbii române.",
+        "Nu a avut niciun impact semnificativ.",
+        "A adus doar influențe în vocabularul limbei române.",
+        "A înlocuit complet limbile locale."
+      ],
+      "answer": "A fost sursa principală a limbii române."
+    },
+    {
+      "question": "Care a fost rolul limbii latine în procesul de romanizare?",
+      "options": [
+        "A fost limba oficială a imperiului, influențând cultura locală.",
+        "A fost ignorată în totalitate de populația locală.",
+        "A fost folosită doar în administrație, fără influențe asupra limbii vorbite.",
+        "A fost înlocuită rapid de limba dacică."
+      ],
+      "answer": "A fost limba oficială a imperiului, influențând cultura locală."
+    },
+    {
+      "question": "Ce elemente culturale au fost aduse de romanizare în afară de limbă?",
+      "options": [
+        "Organizarea religioasă.",
+        "Tradițiile, obiceiurile și organizarea administrativă.",
+        "Un nou sistem de învățământ.",
+        "Arta de a construi cetăți de piatră."
+      ],
+      "answer": "Tradițiile, obiceiurile și organizarea administrativă."
+    },
+    {
+      "question": "Cum se numea un important oraș roman din Dacia?",
+      "options": [
+        "Micia.",
+        "Ulpia Traiana Sarmizegetusa.",
+        "Drobeta.",
+        "Peleș."
+      ],
+      "answer": "Ulpia Traiana Sarmizegetusa."
+    },
+    {
+      "question": "Ce rol au avut drumurile romane în Dacia?",
+      "options": [
+        "Nu au avut o importanță majoră.",
+        "Au ajutat la deplasarea legiunilor și au sprijinit dezvoltarea economică.",
+        "Au fost folosite doar pentru transportul cetățenilor romani.",
+        "Au fost abandonate imediat după retragerea romanilor."
+      ],
+      "answer": "Au ajutat la deplasarea legiunilor și au sprijinit dezvoltarea economică."
+    },
+    {
+      "question": "Cum influențează religia formarea identității naționale a românilor?",
+      "options": [
+        "Nu a avut nicio influență semnificativă.",
+        "A fost un factor esențial în definirea culturii și valorilor românilor.",
+        "A fost un factor secundar, fără importanță majoră.",
+        "A fost doar un element extern adus de invadatori."
+      ],
+      "answer": "A fost un factor esențial în definirea culturii și valorilor românilor."
+    },
+    {
+      "question": "Ce reprezenta Biserica în perioada romană pentru populația locală?",
+      "options": [
+        "Un loc de cult specific românilor.",
+        "Un element cheie al unității și continuității culturale.",
+        "Un loc de adunare pentru romanii care invadaseră Dacia.",
+        "Un simbol al opoziției împotriva Imperiului Roman."
+      ],
+      "answer": "Un element cheie al unității și continuității culturale."
+    },
+    {
+      "question": "Cum contribuie moștenirea daco-romană la identitatea națională a românilor?",
+      "options": [
+        "Este irelevantă pentru cultura actuală.",
+        "A avut un impact marginal asupra tradițiilor românești.",
+        "Este o componentă esențială a identității naționale a românilor.",
+        "A fost complet uitată în perioada modernă."
+      ],
+      "answer": "Este o componentă esențială a identității naționale a românilor."
+    },
+    {
+      "question": "Ce moștenire importantă a lăsat Imperiul Roman în infrastructura Daciei?",
+      "options": [
+        "Tehnologii moderne de construcție.",
+        "Drumuri romane și orașe romane.",
+        "Sisteme de apă și canalizare.",
+        "O rețea de biblioteci publice."
+      ],
+      "answer": "Drumuri romane și orașe romane."
+    },
+    {
+      "question": "Care este rolul moștenirii culturale daco-romane în România de azi?",
+      "options": [
+        "Este un simbol cultural neînțeles.",
+        "Este folosită doar în scopuri turistice.",
+        "Este un element esențial al identității naționale și culturale.",
+        "Este complet pierdută în fața influențelor externe."
+      ],
+      "answer": "Este un element esențial al identității naționale și culturale."
+    }
+  ]
+}

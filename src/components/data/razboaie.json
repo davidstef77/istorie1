@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Care a fost impactul războaielor daco-romane asupra organizării politice și economice a Daciei?",
+      "options": [
+        "Aducerea unei structuri centralizate și crearea de coloni romane",
+        "Scăderea influenței romane și apariția unui regat independent",
+        "Întărirea autonomiei triburilor daco-romane",
+        "Crearea unui sistem de alianțe între triburi și Imperiul Roman"
+      ],
+      "answer": "Aducerea unei structuri centralizate și crearea de coloni romane"
+    },
+    {
+      "question": "Cum a influențat politica de romanizare limbajul și cultura populației autohtone?",
+      "options": [
+        "A condus la formarea limbii române, care a preluat multe elemente latine",
+        "A adus un sistem scris pe care dacii nu îl aveau anterior",
+        "A dus la dispariția culturii autohtone și înlocuirea ei cu cea romană",
+        "A condus la îmbogățirea limbii dacice cu elemente grecești"
+      ],
+      "answer": "A condus la formarea limbii române, care a preluat multe elemente latine"
+    },
+    {
+      "question": "Care a fost rolul lui Decebal în protejarea Daciei împotriva expansiunii romane?",
+      "options": [
+        "A întărit relațiile cu triburile vecine pentru a crea o alianță puternică",
+        "A negociat o pace cu Imperiul Roman și a acceptat înfrângerea",
+        "A condus o serie de rezistențe militare, dar a fost înfrânt în final de Traian",
+        "A adoptat tactici de lupte navale pentru a apăra granițele Daciei"
+      ],
+      "answer": "A condus o serie de rezistențe militare, dar a fost înfrânt în final de Traian"
+    },
+    {
+      "question": "Cum a contribuit romanizarea la formarea identității naționale a românilor?",
+      "options": [
+        "Prin preluarea completă a stilurilor de viață romane și înlocuirea culturii autohtone",
+        "Prin dezvoltarea unei noi religii care combina elemente romane și daco-getice",
+        "Prin formarea unei culturi mixte, cu elemente latine, dar păstrând tradițiile locale",
+        "Prin negarea completă a moștenirii culturale daco-getice"
+      ],
+      "answer": "Prin formarea unei culturi mixte, cu elemente latine, dar păstrând tradițiile locale"
+    },
+    {
+      "question": "Ce importanță au avut războaiele daco-romane în cadrul expansiunii Imperiului Roman în Europa?",
+      "options": [
+        "Au marcat începutul dominației romane în Balcani și estul Europei",
+        "Au dus la crearea primelor provincii romane în zona de nord a Africii",
+        "Au stabilit granițele finale ale Imperiului Roman în estul Europei",
+        "Au reprezentat un conflict minor, fără consecințe semnificative asupra politicii romane"
+      ],
+      "answer": "Au marcat începutul dominației romane în Balcani și estul Europei"
+    },
+    {
+      "question": "Ce tehnici militare au fost folosite de Imperiul Roman în războaiele cu Dacia, iar care au fost reacțiile lui Decebal?",
+      "options": [
+        "Romanii au folosit tacticile de asediu, iar Decebal a aplicat o strategie de luptă în zone montane",
+        "Romanii au preferat bătălii navale, iar Decebal a folosit strategii de luptă de gherilă",
+        "Romanii au folosit doar legiuni de infanterie grea, iar Decebal s-a concentrat pe apărarea forturilor",
+        "Romanii au folosit tactici de luptă psihologică, iar Decebal a aplicat strategii diplomatice"
+      ],
+      "answer": "Romanii au folosit tacticile de asediu, iar Decebal a aplicat o strategie de luptă în zone montane"
+    },
+    {
+      "question": "Ce elemente culturale din perioada romană sunt vizibile în tradițiile și obiceiurile românești de astăzi?",
+      "options": [
+        "Folosirea limbii latine în mod curent",
+        "Influențe în arhitectură, inclusiv utilizarea columnei și a arcurilor",
+        "Traditii de organizare politică inspirate de structura republicană romană",
+        "Păstrarea zeilor romani în mitologia populară"
+      ],
+      "answer": "Influențe în arhitectură, inclusiv utilizarea columnei și a arcurilor"
+    },
+    {
+      "question": "Care a fost semnificația bătăliei de la Tapae în contextul războaielor daco-romane?",
+      "options": [
+        "A marcat înfrângerea decisivă a romanilor în fața dacilor",
+        "A fost prima mare victorie a romanilor asupra Daciei",
+        "A fost o bătălie minoră fără impact strategic semnificativ",
+        "A condus la crearea unui tratat de pace între Dacia și Imperiul Roman"
+      ],
+      "answer": "A fost prima mare victorie a romanilor asupra Daciei"
+    },
+    {
+      "question": "Cum a influențat moartea lui Burebista evoluția Daciei?",
+      "options": [
+        "A dus la divizarea Daciei în mai multe regate și la instabilitate internă",
+        "A consolidat regatul dacic, pregătind Dacia pentru un conflict deschis cu Roma",
+        "A fost un moment de întărire a puterii centrale sub conducerea unui succesor direct",
+        "A permis romanilor să controleze regiunile estice ale Daciei fără conflicte majore"
+      ],
+      "answer": "A dus la divizarea Daciei în mai multe regate și la instabilitate internă"
+    },
+    {
+      "question": "Care a fost rolul legiunilor romane în implementarea politicii de romanizare a Daciei?",
+      "options": [
+        "Au adus o forță militară pentru a apăra teritoriul romanizat",
+        "Au introdus metode agricole și tehnologice avansate în Dacia",
+        "Au impus taxele și au organizat administrativ teritoriile romanizate",
+        "Au construit rețele de apă și canalizare pentru a îmbunătăți viața locală"
+      ],
+      "answer": "Au impus taxele și au organizat administrativ teritoriile romanizate"
+    }
+  ]
+}
