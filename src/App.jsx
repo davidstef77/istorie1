@@ -9,10 +9,15 @@ import StartPage from './pages/StartPage';
 import Razboi from './pages/Razboi';
 import Romanizarea from './pages/Romanizarea';
 import Mostenirea from './pages/Mostenirea';
+import Rebus from './pages/Rebus';
+
 
 import TestRomanziarea from './pages/TestRomanizarea';
 import TestRazboi from './pages/TestRazboi';
 import TestMostenirea from './pages/TestMostenirea';
+import Elemente from './pages/Elemente';
+
+
 
 function RedirectToHash() {
   const location = useLocation();
@@ -30,6 +35,7 @@ function RedirectToHash() {
 function App() {
   return (
     <div>
+      
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -37,10 +43,12 @@ function App() {
         <Route path="/razboaiele_daco-romane" element={<Razboi />} />
         <Route path="/romanizarea" element={<Romanizarea />} />
         <Route path="/mostenirea" element={<Mostenirea />} />
+        <Route path="/elemente_etnogeneza" element={<Elemente />} />
         
         <Route path="/test-romanizarea" element={<TestRomanziarea />} />
         <Route path="/test-razboi" element={<TestRazboi />} />
         <Route path="/test-mostenirea" element={<TestMostenirea />} />
+        <Route path="/rebus" element={<Rebus />} />
 
         <Route path="*" element={<RedirectToHash />} />
       </Routes>

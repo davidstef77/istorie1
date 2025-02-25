@@ -7,10 +7,13 @@ const Razboi = () => {
       {/* Titlu și descriere */}
       <div className="text-center mb-12 pt-20">
         <h1 className="text-6xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-600 drop-shadow-lg">
-          Războaiele daco-romane: O poveste de lupte și destin
+          Războaiele daco-romane: măreție si declin
         </h1>
         <p className="text-xl mt-4 max-w-3xl mx-auto leading-relaxed">
-          Povestea Războaielor daco-romane este una de eroism, trădare și schimbări istorice fundamentale. Află cum Imperiul Roman și Dacia au devenit rivale în lupta pentru putere și resurse. Aceste conflicte nu doar că au remodelat harta regiunii, dar au avut o influență crucială asupra regiunilor învecinate și au lăsat o amprentă adâncă în cultura și limba română. Războaiele de la porțile Imperiului au fost doar începutul unei perioade de transformări istorice profunde.
+          Povestea războaielor daco-romane este marcată de eroismul daco-geților care se apară în fața romaniilor și în urma cărora se produc schimbări politico-administrative în Dacia. 
+        </p>
+        <p className='className="text-xl mt-4 max-w-3xl mx-auto leading-relaxed text-bg-gradient-to-r from-yellow-400 to-red-600"'>
+          Află cum Imperiul Roman și Dacia au devenit rivale în lupta pentru putere și resurse. Aceste conflicte au reconfigurat harta Imperiului Roman, au avut o influență crucială asupra Daciei, au lăsat o amprentă adâncă în cultura și limba română.
         </p>
       </div>
 
@@ -20,23 +23,24 @@ const Razboi = () => {
           Rădăcinile conflictului: Lumea daco-romană
         </h2>
         <p className="text-lg leading-relaxed">
-          La începutul erei noastre, Dacia era un teritoriu deosebit de bogat, cu resurse naturale valoroase, care atrăgeau atenția Imperiului Roman. Dacii, sub conducerea regelui Burebista, reușiseră să unească triburile din zonă, devenind o putere regională semnificativă. În această perioadă, Roma, dorind să-și asigure expansiunea și accesul la resurse strategice, își proiecta influența asupra regiunii. Lupta pentru controlul Daciei s-a transformat rapid într-un conflict militar complex, marcat de o serie de atacuri și alianțe fluctuante.
+        La începutul erei noastre, Dacia era un teritoriu bogat în resurse naturale: aur, argint, metale prețioase, metalifere, care atrăgeau atenția Imperiului Roman. Cele mai bogate exploatări aurifere și argintifere se aflau în Munții Apuseni: Roșia Montană, Abrud, Zlatna. În afara acestor exploatări de metale prețioase se mai exploatau: fierul, sarea (Ocna Mureș), marmura (Grădiștea și Bucova) și țițeiul (Ocna Dejului). Cauzele războaielor daco-romane erau economica cât și politice, creșterea puterii regatului dac reprezenta un motiv de îngrijorare pentru Imperiul Roman. Una din strategiile doborârii acestei forțe de la nordul Dunării este extinderea teritoriilor romane și încojurarea Daciei cu popoare barbare, adversari ai daciilor și clienți ai Imperiului Roman. Dacii, sub conducerea regelui Burebista, reușiseră să unească triburile din zonă, devenind o putere regională semnificativă. În această perioadă, Roma, dorind să-și asigure expansiunea și accesul la resurse strategice, își proiecta influența asupra regiunii. Lupta pentru dominația regatului Daciei s-a transformat rapid într-un conflict militar complex, marcat de o serie de atacuri și alianțe fluctuante.
         </p>
       </div>
 
       {/* Secțiunea 2: Domitian și prima confruntare */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          Prima ofensivă: O luptă pe viață și pe moarte
+          Prima ofensivă: o luptă pe viață și pe moarte - Campaniile militare dintre anii 87-88 d.H.
         </h2>
+        
         <p className="text-lg leading-relaxed">
-          Împăratul Domitian, dorind să pună capăt amenințării daco-romane și să asigure securitatea frontierelor Imperiului Roman, a lansat o primă ofensivă împotriva Daciei. Deși campania romană a fost susținută de un număr superior de trupe, dacii, sub conducerea lui Decebal, au demonstrat o apărare remarcabilă. Bătăliile din această perioadă au fost intense, cu pierderi mari de ambele părți, iar conflictul nu s-a încheiat cu o victorie decisivă pentru Roma, subliniind determinarea dacilor de a-și apăra libertatea.
+          Împăratul Domițian, dorind să pună capăt amenințării daco-romane și să asigure securitatea frontierelor Imperiului Roman, a lansat o primă ofensivă împotriva Daciei. Deși campania romană a fost susținută de un număr superior de trupe, dacii, sub conducerea lui Decebal, au demonstrat o apărare remarcabilă. Personalitatea lui Decebal se afirmă în acest context militar. Motivele pentru care Decebal preia puterea în regatul dac erau evidente: "Pentru că era ager în planuriile de război ca și în împlinirea lor, știa să-și aleagă timpul când să năvălească asupra dușmanului." - Dio Cassius. Bătăliile din această perioadă au fost intense, cu pierderi mari de ambele părți, iar conflictul nu s-a încheiat cu o victorie decisivă pentru Roma, subliniind determinarea dacilor de a-și apăra libertatea. În anul  79 este semnată pacea care prevede că Decebal devine "client al Romei", în schimb va primi de la Domițian bani și meșteri specializați astfel încât Dacia devine regat clientelar.
         </p>
       </div>
 
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400">
-          Casca de război a unui dac
+          Coif de război geto-dac
         </h2>
         <div className="sketchfab-embed-wrapper flex justify-center">
           <iframe
@@ -55,11 +59,12 @@ const Razboi = () => {
       {/* Secțiunea 3: Traian și cucerirea finală */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          Cucerirea și transformarea regiunii
+          Cucerirea regatului lui Decebal de către împăratul Traian 
         </h2>
         <p className="text-lg leading-relaxed">
-          În anul 106 d.Hr., împăratul Traian a demarat o campanie de amploare, care a culminat cu victoria romană asupra dacilor. După un asediu prelungit și bătălii decisive, Dacia a fost cucerită, iar regele Decebal s-a sinucis pentru a evita capturarea. Cucerirea Daciei nu a marcat doar o victorie militară, ci și un început al romanizării regiunii, în care infrastructura romană, cum ar fi drumurile, orașele și sistemele administrative, au fost impuse cu forța. Aceasta a fost o perioadă de mari schimbări pentru regiunile Daciei.
-        </p>
+  <span className="font-bold">Primul război daco-roman</span> a avut loc între anii 101-102, iar <span className="font-bold">al doilea război daco-roman</span> între 105-106. Aceste confruntări au contribuit la extinderea imperiului și au demonstrat abilitățile excepționale de conducere și strategie militară ale celor doi conducători. Armata romană a întâlnit o rezistență acerbă din partea dacilor, dar în cele din urmă Decebal a fost nevoit să accepte pacea umilitoare din anul 102, cedând teritorii și resurse către Imperiul Roman. <span className="font-bold">Al doilea război daco-roman</span> a fost declanșat datorită nemulțumirii lui Decebal în fața condițiilor impuse prin pacea din 102. Al doilea război daco-roman a fost o campanie militară și mai intensă, Traian a condus personal armata romană în bătălia decisivă. Romanii cuceresc capitala Daciei: Sarmizegetusa, și transformă regatul Daciei în provincie romană.    cerirea regatului lui Decebal de către împăratul Traian.
+</p>
+
       </div>
 
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 relative overflow-hidden">
@@ -83,10 +88,10 @@ const Razboi = () => {
       {/* Secțiunea 4: Moștenirea războaielor daco-romane */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          O ereditate de neprețuit: Impactul asupra culturii și limbii
+          Moștenirea daco-romană - reper în etnogeneza românească
         </h2>
         <p className="text-lg leading-relaxed">
-          Moștenirea războaielor daco-romane este profundă și continuă să modeleze identitatea națională a românilor. Romanizarea a adus limba latină, care a devenit fundamentul limbii române, dar și elemente de cultură romană, precum dreptul și organizarea militară. De asemenea, în ciuda integrării în Imperiul Roman, dacii au păstrat multe dintre tradițiile și obiceiurile lor, care au supraviețuit și s-au transformat de-a lungul secolelor. Războaiele daco-romane au fost nu doar un conflict militar, ci și o luptă culturală, iar urmele acestei istorii se regăsesc astăzi în istoria și cultura României.
+          Romanizarea Daciei s-a produs în perioada cuprinsă între secolul II-VII, se încheie odată cu formarea poporului român si a limbii române. Prin procesul de romanizarea geto-dacii au preluat de la romani limba latină, religia, obiceiurile, tradițiile și instituțiile.
         </p>
       </div>
 

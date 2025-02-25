@@ -1,35 +1,38 @@
 {
   "questions": [
-    {
-      "question": "Care a fost impactul războaielor daco-romane asupra organizării politice și economice a Daciei?",
-      "options": [
-        "Aducerea unei structuri centralizate și crearea de coloni romane",
-        "Scăderea influenței romane și apariția unui regat independent",
-        "Întărirea autonomiei triburilor daco-romane",
-        "Crearea unui sistem de alianțe între triburi și Imperiul Roman"
-      ],
-      "answer": "Aducerea unei structuri centralizate și crearea de coloni romane"
-    },
-    {
-      "question": "Cum a influențat politica de romanizare limbajul și cultura populației autohtone?",
-      "options": [
-        "A condus la formarea limbii române, care a preluat multe elemente latine",
-        "A adus un sistem scris pe care dacii nu îl aveau anterior",
-        "A dus la dispariția culturii autohtone și înlocuirea ei cu cea romană",
-        "A condus la îmbogățirea limbii dacice cu elemente grecești"
-      ],
-      "answer": "A condus la formarea limbii române, care a preluat multe elemente latine"
-    },
-    {
-      "question": "Care a fost rolul lui Decebal în protejarea Daciei împotriva expansiunii romane?",
-      "options": [
-        "A întărit relațiile cu triburile vecine pentru a crea o alianță puternică",
-        "A negociat o pace cu Imperiul Roman și a acceptat înfrângerea",
-        "A condus o serie de rezistențe militare, dar a fost înfrânt în final de Traian",
-        "A adoptat tactici de lupte navale pentru a apăra granițele Daciei"
-      ],
-      "answer": "A condus o serie de rezistențe militare, dar a fost înfrânt în final de Traian"
-    },
+    
+        {
+          "question": "Cum au influențat războaiele daco-romane structura socială a Daciei după cucerirea romană?",
+          "options": [
+            "Romanizarea populației și integrarea în structura economică romană",
+            "Păstrarea completă a tradițiilor dacice fără influență romană",
+            "Migrarea în masă a dacilor în afara teritoriilor ocupate",
+            "Formarea unui imperiu daco-roman independent"
+          ],
+          "answer": "Romanizarea populației și integrarea în structura economică romană"
+        },
+        {
+          "question": "Care a fost una dintre principalele consecințe economice ale cuceririi romane a Daciei?",
+          "options": [
+            "Exploatarea intensă a resurselor naturale și dezvoltarea infrastructurii",
+            "Abandonarea minelor și distrugerea orașelor dacice",
+            "Stoparea comerțului cu Imperiul Roman",
+            "Întoarcerea dacilor la un mod de viață nomad"
+          ],
+          "answer": "Exploatarea intensă a resurselor naturale și dezvoltarea infrastructurii"
+        },
+        {
+          "question": "Ce rol au jucat coloniștii romani în Dacia după anexarea teritoriului de către Imperiul Roman?",
+          "options": [
+            "Au contribuit la dezvoltarea orașelor și răspândirea culturii romane",
+            "S-au retras după cucerire, lăsând teritoriul dacilor",
+            "Au fost asimilați complet de populația dacică fără influență culturală",
+            "Au format triburi independente care au luptat împotriva romanilor"
+          ],
+          "answer": "Au contribuit la dezvoltarea orașelor și răspândirea culturii romane"
+        }
+      
+      ,
     {
       "question": "Cum a contribuit romanizarea la formarea identității naționale a românilor?",
       "options": [

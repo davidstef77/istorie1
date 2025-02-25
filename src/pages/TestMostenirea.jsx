@@ -22,8 +22,8 @@ const TestMostenirea = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white p-8 space-y-12">
-      <h1 className="text-5xl font-serif text-white drop-shadow-lg text-center mb-12">Test despre romanizare</h1>
+    <div className="min-h-screen  text-white p-8 space-y-12">
+      <h1 className="text-5xl font-serif text-white drop-shadow-lg text-center mb-12">Test despre moștenire</h1>
 
       {showResult ? (
         <div className="text-center">
@@ -38,19 +38,20 @@ const TestMostenirea = () => {
             <div key={index} className="space-y-6">
               <h2 className="text-2xl font-medium">{question.question}</h2>
               <div className="space-y-4">
-                {question.options.map((option, idx) => (
-                  <button
-                    key={idx}
-                    onClick={() => handleAnswer(index, option)}
-                    className={`w-full p-4 text-white rounded-md transition-all duration-300 ${
-                      answers[index] === option
-                        ? 'bg-blue-500 hover:bg-blue-400' // Stil pentru butonul selectat
-                        : 'bg-gray-700 hover:bg-gray-600' // Stil pentru butonul ne-selectat
-                    }`}
-                  >
-                    {option}
-                  </button>
-                ))}
+              {question.options.map((option, idx) => (
+  <button
+    key={idx}
+    onClick={() => handleAnswer(index, option)}
+    className={`w-full p-4 text-white rounded-md transition-all duration-300 ${
+      answers[index] === option
+        ? 'bg-blue-500 hover:bg-blue-400'
+        : 'bg-gray-700 hover:bg-gray-600'
+    }`}
+  >
+    {String.fromCharCode(97 + idx)}) {option} {/* Adaugă a), b), c), d) */}
+  </button>
+))}
+
               </div>
             </div>
           ))}

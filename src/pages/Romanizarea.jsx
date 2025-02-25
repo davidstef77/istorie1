@@ -1,26 +1,29 @@
 import React from 'react';
 
+
+
 const Romanizarea = () => {
+  
   return (
     <div className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 text-white min-h-screen p-8">
 
       {/* Titlu și descriere */}
       <div className="text-center mb-12 pt-20">
         <h1 className="text-5xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-600 drop-shadow-lg">
-          Romanizarea și influența asupra limbii române
+          Romanizarea Daciei
         </h1>
         <p className="text-xl mt-4 max-w-3xl mx-auto leading-relaxed">
-          Romanizarea Daciei a avut un impact fundamental asupra limbii române, care a evoluat din latină, aducând influențe semnificative din limba și cultura romană. Aceasta perioadă a transformat nu doar limba, dar și structurile sociale, administrative și culturale, care au lăsat o amprentă adâncă asupra evoluției regiunii. De asemenea, romanizarea a influențat dezvoltarea orașelor și a infrastructurii, lăsând urme care se reflectă chiar și în peisajul urban contemporan.
+          Romanizarea Daciei a avut un impact fundamental asupra etnogenezei poporului român și a limbii române. Limba latină a reprezentat factorul principal al romanizării. Odată cu însușirea limbii latine de către geto-daci procesul de romanizarea devine ireversibil. 
         </p>
       </div>
 
       {/* Secțiunea 1: Procesul de romanizare */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          Impactul romanizării: O transformare culturală
+          Consecințele romanizării: repere în etnogeneza românească
         </h2>
         <p className="text-lg leading-relaxed">
-          După cucerirea Daciei, Imperiul Roman a impus un proces de romanizare care a transformat radical structura socială și culturală a regiunii. Limba latină, adusă de coloniști și soldați romani, a înlocuit treptat limbile locale și a devenit fundamentul limbii române. Acest proces a fost esențial în crearea unei identități comune, în ciuda diversității tribale și culturale a Daciei. Orașele romane, precum Ulpia Traiana Sarmizegetusa, au fost centre culturale și administrative, unde influențele romane s-au manifestat în arhitectură, educație și administrație.
+          După cucerirea Daciei, are loc un proces de romanizare. Limba latină, adusă de coloniștii, soldați romani, administrația romană s- a amestecat cu limba vorbită de geto-daci. Procesul de romanizare inițială este caracterizat prin faptul că în această etapă au loc contacte materiale între daci și romani prin schimburi comerciale între nordul și sudul Dunării. În anul 28 î.H. Dobrogea este cucerită de romanii și apoi este inclusă în provincia Moesia (46 d.H). După romanizarea oficială care s-a produs între anii 106-271 când procesul de romanizare se intensifică, în anul 271 armata și administrația locală se retrag la sudul Dunării, are loc retragerea aureliană. Procesul de romanizare nu s-a oprit și are loc romanizarea dacilor liberi a Dobrogei, apariția unei noi populații la N Dunării: daco-romanii. Orașele din Dacia: Ulpia Traiana Sarmizegetusa, Napoca, Apulum, Porolissum  au devenit centre culturale în care influențele romane s-au perpetuat prin arhitectură, educație și administrație.
         </p>
       </div>
 
@@ -71,17 +74,35 @@ const Romanizarea = () => {
       {/* Secțiunea 2: Limba română - o moștenire latină */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          Limba română: O moștenire latină
+          Limba română: limbă neolatină
         </h2>
         <p className="text-lg leading-relaxed">
-          Limba română este o limbă romanică, care derivă direct din latină. Romanizarea Daciei a fost un factor determinant în formarea limbii române, iar elementele latinești se regăsesc astăzi în structura lingvistică și vocabularul limbii. De la cuvinte fundamentale la termeni juridici și administrațivi, limba română poartă amprenta Romei antice. De exemplu, cuvinte precum „civis” (cetățean) sau „legis” (lege) sunt doar câteva dintre termenii esențiali care au trecut în limba română.
+          Limba română este o limbă romanică, care derivă din limba latină. Romanizarea Daciei a fost un factor important în formarea limbii române, iar cuvintele de origine latină se regăsesc astăzi în lexicul limbii române în procent de 60%. De la termeni creștini la termeni juridici și adminsitrativi, limba română poartă amprenta Romei antice. De exemplu, cuvinte precum „civis” (cetățean) sau „legis” (lege) biserică (basilica)
+înger (angelus)
+cruce (crux, crucis)
+credință (fides)
+păcat (peccatum)  fereastră (fenestra)
+școală (schola)
+a învăța (invitatio)
+pământ (terra)
+frate (frater)
+limbă (lingua)
+munte (mons, montis)
+lumină (lumen)
+noapte (nox, noctis)
+soare (sol, solis)
+apă (aqua)
+muncă (munca)
+viață (vita)
+fericire (felicitas)
+timp (tempus) sunt doar câteva dintre termenii esențiali care au trecut în limba română.
         </p>
       </div>
 
       {/* Secțiunea 3: Elemente de limbă română provenite din latină */}
       <div className="bg-gradient-to-r from-gray-700 to-gray-600 p-8 rounded-lg shadow-lg mb-12 transition-all duration-300 hover:bg-gray-700 relative overflow-hidden">
         <h2 className="text-4xl font-semibold mb-6 text-yellow-400 hover:text-yellow-500 transition-all">
-          Cuvinte de origine latină în limba română
+          De reținut: cuvinte de origine latină
         </h2>
         <p className="text-lg leading-relaxed">
           Multe cuvinte din limba română provin direct din latină, reflectând influențele Romei antice asupra regiunii. De exemplu, cuvintele „capitală” (din lat. „capitale”), „legislație” (din lat. „legislatio”), „administrare” (din lat. „administratio”) și multe altele demonstrează legătura strânsă dintre limba română și limba latină. De asemenea, multe expresii din limbajul cotidian sunt influențate de tradițiile romane, cum ar fi „a pune bazele” sau „a face lege”.

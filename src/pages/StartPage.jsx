@@ -2,7 +2,7 @@ import React from "react";
 import { FaLanguage, FaCrown, FaBook, FaTrophy } from "react-icons/fa";
 import { GiBattleAxe } from "react-icons/gi";
 import { Link } from "react-router-dom";
-import myvideo1 from "../assets/My Video1.mp4";
+import myvideo1 from "../assets/My Video2.mp4";
 
 // Componentă pentru fiecare link de capitol
 const ChapterLink = ({ to, icon, label, iconColor }) => (
@@ -26,7 +26,7 @@ const TestCard = ({ to, label, icon, iconColor }) => (
 
 const StartPage = () => {
   return (
-    <div className="flex flex-col items-center p-8 space-y-12 bg-gradient-to-b from-black via-gray-900 to-black min-h-screen">
+    <div className="flex flex-col items-center p-8 space-y-12 bg-grey-200">
       {/* Titlu */}
       <h1 className="text-6xl font-serif text-white drop-shadow-lg text-center">
         Introducere
@@ -70,6 +70,13 @@ const StartPage = () => {
           label="3. Moștenirea culturală și identitatea națională a românilor"
           iconColor="text-green-400"
         />
+        <hr className="border-gray-700 w-full" />
+        <ChapterLink
+          to="/elemente_etnogeneza"
+          icon={<FaBook />}
+          label="4. Elemente ale etnogenezei românești"
+          iconColor="text-purple-400"
+        />
       </div>
 
       {/* Titlu Teste */}
@@ -79,26 +86,61 @@ const StartPage = () => {
 
       {/* Lista de teste */}
       <div className="grid grid-cols-1 gap-8 w-full max-w-6xl">
-  <TestCard
-    to="/test-razboi"
-    label="Test: Războaiele daco-romane"
-    icon={<FaTrophy />} // Înlocuire cu trofeu
-    iconColor="text-yellow-400" // Culoare aurie pentru trofeu
-  />
-  <TestCard
-    to="/test-romanizarea"
-    label="Test: Romanizarea"
-    icon={<FaBook />} // Înlocuire cu carte
-    iconColor="text-blue-400" // Culoare albastră pentru carte
-  />
-  <TestCard
-    to="/test-mostenirea"
-    label="Test: Moștenirea culturală"
-    icon={<FaCrown />} // Înlocuire cu coroană
-    iconColor="text-green-400" // Culoare verde pentru coroană
-  />
-</div>
+        <TestCard
+          to="/rebus"
+          label="Rebus cu cuvinte de origine latină"
+          icon={<FaLanguage />}
+          iconColor="text-green-400"
+        />
+        <TestCard
+          to="/test-razboi"
+          label="Test: Războaiele daco-romane"
+          icon={<FaTrophy />}
+          iconColor="text-yellow-400"
+        />
+        <TestCard
+          to="/test-romanizarea"
+          label="Test: Romanizarea"
+          icon={<FaBook />}
+          iconColor="text-blue-400"
+        />
+        <TestCard
+          to="/test-mostenirea"
+          label="Test: Moștenirea culturală"
+          icon={<FaCrown />}
+          iconColor="text-green-400"
+        />
+      </div>
 
+      {/* Bibliografie */}
+      <div className="bg-gray-800 p-8 rounded-xl shadow-2xl max-w-4xl w-full mt-12">
+        <h2 className="text-3xl font-serif text-white drop-shadow-lg mb-6">
+          Bibliografie
+        </h2>
+        <div className="space-y-4">
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Alesandru Duțu, Alexandru Madgearu, Petre Otu, Mircea Soreanu,{" "}
+            <span className="italic">100 de bătălii din istoria româniilor</span>, Editura Litera, București, 2021
+          </p>
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Giurescu, Constantin C. italiceIstoria Românilor, vol. I, Ediția a V-a, Editura BIC ALL
+          </p>
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Radu Oltean,{" "}
+            <span className="italic">Dacia, Războaiele cu romanii, vol. 1 Sarmizegetusa</span>, Editura Humanitas, 2019
+          </p>
+          
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Vocea audio AI de la Eleven Labs
+          </p>
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Iconițele de pe React-Icons
+          </p>
+          <p className="text-xl text-gray-300 hover:text-white transition-all duration-300">
+            Modelele 3D de pe SketchFab
+          </p>
+        </div>
+      </div>
     </div>
   );
 };
